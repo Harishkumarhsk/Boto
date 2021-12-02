@@ -1,2 +1,2 @@
 # Boto
-packages
+packagestest
